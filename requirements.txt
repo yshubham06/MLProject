@@ -5,4 +5,6 @@ Scikit-learn
 SciPy
 Keras
 seaborn
--e .
+catboost
+xgboost
+#-e .
